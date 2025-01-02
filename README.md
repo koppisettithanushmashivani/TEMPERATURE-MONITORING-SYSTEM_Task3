@@ -89,7 +89,7 @@ CONCLUSION:
    In conclusion, the Temperature Monitoring System provides an effective solution for measuring and displaying temperature data in real time. By utilizing a temperature sensor, microcontroller, and display unit such as an LCD or serial monitor, the system ensures accurate and reliable temperature tracking. Its versatility makes it suitable for a wide range of applications, including industrial processes, home automation, and environmental monitoring. The system demonstrates the seamless integration of hardware and software, offering a practical example of modern sensor technology's capabilities. This reliable and user-friendly setup underscores its importance in various fields where temperature control and monitoring are critical.
 
 
-OUTPUT OF THE PROJECT:
+OUTPUT OF THE PROJECT:https://github.com/koppisettithanushmashivani/TEMPERATURE-MONITORING-SYSTEM_Task3/commit/8630da2fc59e66681bab118111e8c84e5c592646
 
 
 
