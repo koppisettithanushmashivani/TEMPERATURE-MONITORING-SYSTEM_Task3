@@ -80,7 +80,7 @@ void loop()
   delay(500);
 }
 
-CIRCUIT DIAGRAM:
+CIRCUIT DIAGRAM:https://github.com/koppisettithanushmashivani/TEMPERATURE-MONITORING-SYSTEM_Task3/commit/1416e0bf504be12b0167047064f6db50e269290e
 
 WORKING:
   The Temperature Monitoring System operates by utilizing a temperature sensor to detect the ambient temperature of its surroundings. The sensor captures the temperature data and converts it into an electrical signal, which is then sent to a microcontroller or processing unit. The microcontroller processes this data, ensuring its accuracy and formatting it for display. The processed temperature readings are then presented in real-time on an LCD screen or transmitted to a serial monitor for monitoring and analysis. Optional features, such as alerts for temperature thresholds or data logging, can also be integrated to enhance functionality. This seamless operation ensures reliable and efficient temperature tracking for various applications.
